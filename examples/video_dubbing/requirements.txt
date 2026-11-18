@@ -1,0 +1,11 @@
+# Pinned runtime deps (mirrors pyproject.toml). Prefer: pip install -e ".[dev]"
+openai==1.59.8
+httpx==0.28.1
+pydantic==2.10.5
+pydantic-settings==2.7.1
+PyYAML==6.0.2
+rapidfuzz==3.11.0
+tenacity==9.0.0
+rich==13.9.4
+python-dotenv==1.0.1
+# Phase 2+: numpy, soundfile, torch, torchaudio, silero-vad

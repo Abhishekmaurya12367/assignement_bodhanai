@@ -1,0 +1,6 @@
+# Optional voice overrides per language code.
+# Any Indic-Speak voice can read any language; defaults live in config/languages.py.
+voices:
+  hi: Kavya
+  ta: Anitha
+  bn: Ishita

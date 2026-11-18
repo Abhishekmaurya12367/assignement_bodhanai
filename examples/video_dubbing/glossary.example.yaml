@@ -1,0 +1,10 @@
+# Optional user glossary. Merged with the LLM-built glossary (user wins on conflicts).
+# keep: leave as-is in the target language
+# transliterate: phonetic rendering allowed; do not translate meaning
+terms:
+  - surface: Bodhan
+    policy: keep
+  - surface: GPU
+    policy: keep
+  - surface: latency
+    policy: transliterate
